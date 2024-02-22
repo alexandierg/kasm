@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Linphone',
     description: 'Softphone para Kasm.',
-    icon: 'https://cdn.worldvectorlogo.com/logos/lorem-lorem-1.svghttps://cdn.worldvectorlogo.com/logos/lorem-lorem-1.svg',
+    icon: '/img/logo.svg',
     listUrl: 'https://alexandierg.github.io/kasm/',
     contactUrl: 'https://github.com/alexandierg/kasm/issues',
   },
