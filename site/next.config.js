@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Linphone',
+    description: 'Softphone para Kasm.',
+    icon: 'https://cdn.worldvectorlogo.com/logos/lorem-lorem-1.svghttps://cdn.worldvectorlogo.com/logos/lorem-lorem-1.svg',
+    listUrl: 'https://alexandierg.github.io/kasm/',
+    contactUrl: 'https://github.com/alexandierg/kasm/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
